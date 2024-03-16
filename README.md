@@ -9,7 +9,7 @@ This is a basic Snake game implemented in Python 3.11. It is designed for educat
 1. Ensure you have Python 3.11 installed.
 2. Clone the repository to your local machine.
 3. Open the project in PyCharm or any other Python editor.
-4. Run the `snake_game.py` file to start the game.
+4. Run the `main.py` file to start the game.
 
 ## Controls
 
