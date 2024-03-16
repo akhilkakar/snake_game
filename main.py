@@ -1,3 +1,4 @@
+# created by Akhil Kakar
 from turtle import Screen  # https://docs.python.org/3/library/turtle.html
 from food import Food
 from scoreboard import Scoreboard
